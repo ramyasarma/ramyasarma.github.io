@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ramya Sarma</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Ramya Sarma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ramya Sarma</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Job Scheduling for Scientific Workflows in IaaS clouds</title>
+      <link>https://example.com/project/job-scheduling/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/job-scheduling/</guid>
+      <description>&lt;p&gt;The aim is to minimise the cost of execution of the workflow while meeting the user’s deadline requirements. A modified version of the Particle Swarm Heuristic is used to combine resource provisioning and scheduling into a single algorithm. Particle swarm optimisation is a meta-heuristic that is based on the social behaviour of a flock of birds or swarm of bees (particles). The algorithm is simulated on the WorkFlowSim Simulator which is an extension of CloudSim simulator. Simulation is done in order to test the algorithm before deploying it in the cloud to avoid any bottlenecks delays that may occur for scheduling. This greatly reduces the time and cost of deployment operations. The solution was tested for different scientific workflows namely Montage, Epigenome, CyberShake and Inspiral and analysed the performance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://example.com/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
