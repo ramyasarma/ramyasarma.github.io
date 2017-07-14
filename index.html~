@@ -179,35 +179,45 @@
         
         <li>
           <a itemprop="sameAs" href="rsarma@cs.umass.edu" target="_blank">
-            <i class="fa fa-envelope big-icon"></i>
+            <img src="img/email_32.png"> 
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="https://www.linkedin.com/in/ramya-sarma-18318268/" target="_blank">
-            <i class="fa fa-linkedin-square big-icon"></i>
+		<img src="img/linkedin_32.png"> 
+          <!--  <i class="fa fa-linkedin-square big-icon"></i> -->
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//twitter.com/ramya_sarma_" target="_blank">
-            <i class="fa fa-twitter-square big-icon"></i>
+            <img src="img/twitter_32.png"> 
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//facebook.com/ramyasarma13" target="_blank">
-            <i class="fa fa-facebook-official big-icon"></i>
+
+            <img src="img/facebook_32.png"> 
+
+
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//github.com/ramyasarma" target="_blank">
-            <i class="fa fa-github-square big-icon"></i>
+            <img src="img/github_32.png"> 
+          </a>
+        </li>
+
+ 	<li>
+          <a itemprop="sameAs" href="https://www.goodreads.com/ramya_sarma" target="_blank">
+            <img src="img/goodreads_32.png"> 
           </a>
         </li>
         
@@ -729,7 +739,7 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
     
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>The latest version of my CV/Resume can be found <a href="pdf/Ramya_Sarma.pdf" target="_blank"> here </>.</p>
+    <p>The latest version of my CV/Resume can be found <a style="color:blue;" href="pdf/Ramya_Sarma.pdf" target="_blank"> here </>.</p>
 
   </div>
 </div>
