@@ -179,35 +179,45 @@
         
         <li>
           <a itemprop="sameAs" href="rsarma@cs.umass.edu" target="_blank">
-            <i class="fa fa-envelope big-icon"></i>
+            <img src="img/email_32.png"> 
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="https://www.linkedin.com/in/ramya-sarma-18318268/" target="_blank">
-            <i class="fa fa-linkedin-square big-icon"></i>
+		<img src="img/linkedin_32.png"> 
+          <!--  <i class="fa fa-linkedin-square big-icon"></i> -->
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//twitter.com/ramya_sarma_" target="_blank">
-            <i class="fa fa-twitter-square big-icon"></i>
+            <img src="img/twitter_32.png"> 
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//facebook.com/ramyasarma13" target="_blank">
-            <i class="fa fa-facebook-official big-icon"></i>
+
+            <img src="img/facebook_32.png"> 
+
+
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//github.com/ramyasarma" target="_blank">
-            <i class="fa fa-github-square big-icon"></i>
+            <img src="img/github_32.png"> 
+          </a>
+        </li>
+
+ 	<li>
+          <a itemprop="sameAs" href="https://www.goodreads.com/ramya_sarma" target="_blank">
+            <img src="img/goodreads_32.png"> 
           </a>
         </li>
         
@@ -387,6 +397,271 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
 
     
       
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <a href="https://ramyasarma.github.io/post/getting-started/">
+    <img src="/img/headers/getting-started.png" class="article-banner" itemprop="image">
+  </a>
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/getting-started/" itemprop="url">Getting started with the Academic framework for Hugo</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2016-04-20 12:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Wed, Apr 20, 2016
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/academic">academic</a
+    >, 
+    
+    <a href="/tags/hugo">hugo</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Create a beautifully simple personal or academic website in under 10 minutes.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/getting-started/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/widgets/" itemprop="url">Customizing the homepage with widgets</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2016-04-20 11:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Wed, Apr 20, 2016
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/academic">academic</a
+    >, 
+    
+    <a href="/tags/hugo">hugo</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Enable/disable and configure widgets to customize your homepage.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/widgets/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/managing-content/" itemprop="url">Managing content</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2016-04-20 11:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Wed, Apr 20, 2016
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/academic">academic</a
+    >, 
+    
+    <a href="/tags/hugo">hugo</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="https://ramyasarma.github.io/post/writing-markdown-latex/" target="_blank">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/managing-content/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/writing-markdown-latex/" itemprop="url">Writing content with Markdown, LaTeX, and Shortcodes</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2016-04-20 10:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Wed, Apr 20, 2016
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Content can be written using <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown</a>, <a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank">LaTeX math</a>, and <a href="http://gohugo.io/extras/shortcodes/" target="_blank">Hugo Shortcodes</a>. Additionally, HTML may be used for advanced formatting. This article gives an overview of the most common formatting options.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/writing-markdown-latex/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/migrate-from-jekyll/" itemprop="url">Migrate from Jekyll to Hugo</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2014-03-10 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Mon, Mar 10, 2014
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/jekyll">jekyll</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Learn how to migrate an existing website from Jekyll to Hugo.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/migrate-from-jekyll/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
     
 
   </div>
@@ -464,7 +739,7 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
     
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>The latest version of my CV/Resume can be found here.</p>
+    <p>The latest version of my CV/Resume can be found <a style="color:blue;" href="pdf/Ramya_Sarma.pdf" target="_blank"> here </>.</p>
 
   </div>
 </div>
@@ -480,10 +755,7 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
 
       &copy; 2017 Ramya Sarma &middot; 
 
-      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
-      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
-
-      <span class="pull-right" aria-hidden="true">
+         <span class="pull-right" aria-hidden="true">
         <a href="#" id="back_to_top">
           <span class="button_icon">
             <i class="fa fa-chevron-up fa-2x"></i>
