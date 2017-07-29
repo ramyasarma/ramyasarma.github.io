@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Musings</title>
+      <link>https://ramyasarma.github.io/tags/musings/</link>
+      <pubDate>Sat, 29 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://ramyasarma.github.io/tags/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://ramyasarma.github.io/tags/random/</link>
+      <pubDate>Sat, 29 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://ramyasarma.github.io/tags/random/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
