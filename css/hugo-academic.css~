@@ -972,7 +972,7 @@ nav#navbar-main li {
     float: none;
     width: auto;
     margin-top: 0;
-    background-color: transparent;
+    background-color: #555;
     border: 0;
     box-shadow: none;
   }
@@ -986,7 +986,7 @@ nav#navbar-main li {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
     color: inherit;
-    background-color: transparent;
+    background-color: #555;
   }
 
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
