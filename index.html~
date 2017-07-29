@@ -97,7 +97,7 @@
         
 
         <li class="nav-item">
-          <a href="/#posts" data-target="#posts">
+          <a href="https://ramyastheobserver.blogspot.in/" data-target="https://ramyastheobserver.blogspot.in/">
             
             <span>Blog</span>
           </a>
@@ -175,50 +175,39 @@
       <link itemprop="url" href="https://ramyasarma.github.io/">
 
       <ul class="social-icon" aria-hidden="true">
-    <ul class="social-icon" aria-hidden="true">
         
         
         <li>
           <a itemprop="sameAs" href="rsarma@cs.umass.edu" target="_blank">
-            <img src="img/email_32.png"> 
+            <i class="fa fa-envelope big-icon"></i>
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="https://www.linkedin.com/in/ramya-sarma-18318268/" target="_blank">
-		<img src="img/linkedin_32.png"> 
-          <!--  <i class="fa fa-linkedin-square big-icon"></i> -->
+            <i class="fa fa-linkedin-square big-icon"></i>
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//twitter.com/ramya_sarma_" target="_blank">
-            <img src="img/twitter_32.png"> 
+            <i class="fa fa-twitter-square big-icon"></i>
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//facebook.com/ramyasarma13" target="_blank">
-
-            <img src="img/facebook_32.png"> 
-
-
+            <i class="fa fa-facebook-square big-icon"></i>
           </a>
         </li>
         
         
         <li>
           <a itemprop="sameAs" href="//github.com/ramyasarma" target="_blank">
-            <img src="img/github_32.png"> 
-          </a>
-        </li>
-
- 	<li>
-          <a itemprop="sameAs" href="https://www.goodreads.com/ramya_sarma" target="_blank">
-            <img src="img/goodreads_32.png"> 
+            <i class="fa fa-github-square big-icon"></i>
           </a>
         </li>
         
@@ -398,6 +387,65 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
 
     
       
+        
+        
+
+
+<div class="article-list-item" itemscope itemprop="blogPost">
+  
+  
+  <a href="https://ramyasarma.github.io/post/hello-world/">
+    <img src="/img/headers/getting-started.png" class="article-banner" itemprop="image">
+  </a>
+  
+  <h3 class="article-title" itemprop="name">
+    <a href="https://ramyasarma.github.io/post/hello-world/" itemprop="url">Graduation</a>
+  </h3>
+  
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="2017-07-29 12:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Sat, Jul 29, 2017
+    </time>
+  </span>
+
+  
+
+  
+  
+  
+  <span class="article-tags">
+    <i class="fa fa-tags"></i>
+    
+    <a href="/tags/random">random</a
+    >, 
+    
+    <a href="/tags/musings">musings</a
+    >
+    
+  </span>
+  
+  
+
+  
+
+</div>
+
+  <div class="article-style" itemprop="articleBody">
+    
+    <p>Create a beautifully simple personal or academic website in under 10 minutes.</p>
+    
+  </div>
+  <p class="read-more">
+    <a href="https://ramyasarma.github.io/post/hello-world/" class="btn btn-primary btn-outline">
+      CONTINUE READING
+    </a>
+  </p>
+</div>
+
+      
     
 
   </div>
@@ -475,7 +523,7 @@ I earned my B.Tech. in Computer Science at the National Institute of Technology,
     
   </div>
   <div class="col-xs-12 col-md-8">
-    <p>The latest version of my CV/Resume can be found here.</p>
+    <p>The latest version of my CV/Resume can be found <a href="https://ramyasarma.github.io/pdf/Ramya_Sarma.pdf" target="_blank">here</a>.</p>
 
   </div>
 </div>
